@@ -8,12 +8,12 @@
 
 [Часть 2](https://github.com/python-advance/sem5-exceptions-arinasaf11)
 
-Декораторы
+[Декораторы](https://github.com/python-advance/sem5-deco-1-arinasaf11/blob/master/README.md)
 
-Модули, пакеты и система импорта
+[Модули, пакеты и система импорта](https://github.com/herzenuni/sem5-2016-packages-arinasaf11)
 
 [Встроенные коллекции](https://github.com/python-advance/sem5-collections-arinasaf11/blob/master/README.md)
 
-Введение в ООП
+[Введение в ООП](https://github.com/python-advance/sem5-oop-arinasaf11)
 
 [Презентация "Обзор библиотеки Matplotlib"](https://drive.google.com/file/d/10IurorVJUihz7XGU9uGPuWVwJd9l_xV1/view?usp=sharing)
