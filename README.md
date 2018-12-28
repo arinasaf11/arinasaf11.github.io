@@ -4,9 +4,9 @@
 
 1. Исключения:
 
-[Часть 1](https://github.com/herzenuni/sem5-firsttask-04092018-arinasaf11-2)
+  * [Часть 1](https://github.com/herzenuni/sem5-firsttask-04092018-arinasaf11-2)
 
-[Часть 2](https://github.com/python-advance/sem5-exceptions-arinasaf11)
+  * [Часть 2](https://github.com/python-advance/sem5-exceptions-arinasaf11)
 
 2. [Декораторы](https://github.com/python-advance/sem5-deco-1-arinasaf11/blob/master/README.md)
 
